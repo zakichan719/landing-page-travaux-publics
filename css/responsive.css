@@ -47,10 +47,10 @@
 		color: whitesmoke;
 		font-size: 60px;
 		font-weight: bold;
-		background-color: rebeccapurple;
+	 
 	}
-	 .btn-start {  margin-bottom: 10px; background-color: red; }
-      .btn-learn {  margin-bottom: 10px; background-color: red; }
+	 .btn-start {  margin-bottom: 10px;  }
+      .btn-learn {  margin-bottom: 10px; }
 }
 
 
